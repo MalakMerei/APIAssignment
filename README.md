@@ -1,5 +1,5 @@
 # APIAssignment
-The api could be run by either using "-dotnet run" or by running the solution since swagger is included in it.
+The solution is a ASP.NET Core Web API (.NET Core 6). The api could be run by either using "-dotnet run" and postman or by running the solution since swagger is included in it.
 This api includes both sources bitstamp and bitfinex APIs so the user can view the latest prices of both bitcoins. 
 The user also can add new sources other than the existing ones, where he will specify the name of the source,
 its API url, and the targeted value that he wanted to view from the json response.
